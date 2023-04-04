@@ -9,7 +9,7 @@ Programadora frontend apaixonada por criar experiências de usuário incríveis 
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahsatana&repo=tiktok-clone1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahsatana&repo=tiktok-clone&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
